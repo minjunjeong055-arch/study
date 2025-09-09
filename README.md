@@ -1,3 +1,2 @@
 # study
 alswns
-seungmin
